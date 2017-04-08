@@ -1,1 +1,13 @@
-<title>*Freemedia News*</title> http://www.yourweb.com <title>****** more updates comming soon ****** </title> Enjoy http://www.yourweb.com
+<? xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+<title>*Freemedia News*</title>
+<description></description>
+<link>http://www.yourweb.com</link>
+<item>
+<title>******More Updates Comming Soon  ****** </title>
+<description> Enjoy </description>
+<link>http://www.yourweb.com</link>
+</channel>
+</rss>
+
